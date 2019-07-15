@@ -11,7 +11,7 @@
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
 const char *ssid     = "Arduino Wifi";
-const char *password = "tm1010101";
+const char *password = "xxxxxxxx";
 
 const long utcOffsetInSeconds = 28800;
 
