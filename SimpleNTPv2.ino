@@ -16,7 +16,7 @@ const char* ssid     = "************";                       // your wifi SSID (
 const char* password = "************";                       // your wifi password
 
 const char* ntpServer = "pool.ntp.org";
-const long  gmtOffset_sec = 28800;       //Malaysian,Singapore GMT = +8UTC*60*60 , GREENWICH = 0 UTC + (60*60)
+const long  gmtOffset_sec = 28800;       //Malaysian,Singapore GMT = +8 UTC * (60*60) , GREENWICH = 0 UTC * (60*60) = 0
 const int   daylightOffset_sec = 0;
 
 /*
