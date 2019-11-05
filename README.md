@@ -1,5 +1,26 @@
 # +8_UTC_ESP8266_NTP_i2C_OLED
-Malaysian Time
+
+ PRINCIPAL CITIES : TIMEZONE/GMT/UTC +8 
+ As standard time (all year round)
+ 
+ (Northern to Southern Order)
+ 
+ - Irkutsk,RUSSIA.			** No DST
+ - Shanghai, CHINA. 		** No DST
+ - Beijing, CHINA.			** No DST
+ - Taipei, TAIWAN.			** No DST
+ - Hong Kong, CHINA.		** No DST
+ - Manila, PHILIPPINES.		** No DST
+ - Kuala Lumpur, MALAYSIA.	** No DST
+ - Singapore, SINGAPORE.	** No DST
+ - Makassar, INDONESIA.		** No DST
+ - Perth, AUSTRALIA.		** No DST
+ 
+ REFERENCE 		: https://en.wikipedia.org/wiki/UTC%2B08:00
+ DST REFERENCE 	: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+ 
+=======================================================================================
+
 
   // Set offset time in seconds to adjust for your timezone, for example:
   // GMT +1 = 3600 
