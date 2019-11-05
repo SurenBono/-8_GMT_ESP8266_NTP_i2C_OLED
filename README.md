@@ -19,7 +19,7 @@
  REFERENCE 		: https://en.wikipedia.org/wiki/UTC%2B08:00
  DST REFERENCE 	: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
  
-=======================================================================================
+===============================================================================
 
 
   // Set offset time in seconds to adjust for your timezone, for example:
